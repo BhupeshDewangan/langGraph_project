@@ -1,6 +1,9 @@
-langchain
-langchain_qroq
+langgraph 
+langsmith
+langchain 
+langchain_groq 
 langchain_community
+langchain_groq
 tavily-python
 arxiv
 wikipedia
